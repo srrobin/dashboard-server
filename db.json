@@ -1,0 +1,23 @@
+{
+  "reg": [
+
+    {
+      "id": "1",
+      "name": "sayam rahman",
+      "username": "srrobin",
+      "phone_number": "01922590019",
+      "user_image":"" 
+    }
+  ],
+  "notice": [
+    {
+      "id": "1",
+      "place": "নশিরপুর", 
+      "fish_name": " পোনা মাছ" ,
+      "fish_quantity": "৪০০০" ,
+      "fish_price": "১০০০" ,
+      "type":1
+    }
+  ]
+}
+
